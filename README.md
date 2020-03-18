@@ -1,1 +1,1 @@
-# prak_algostruk
+# algostruk_f
